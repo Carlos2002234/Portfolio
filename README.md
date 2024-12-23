@@ -4,12 +4,9 @@
 ![image](https://github.com/user-attachments/assets/22a4cee6-fe9c-40bf-a8c1-98eac9be720e)
 
 
-I am a passionate Cybersecurity Engineer with a strong background in Software Engineering. My expertise lies in securing systems, detecting threats, and building resilient solutions
-
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a passionate Cybersecurity Engineer with a strong background in Software Engineering. My expertise lies in securing systems, detecting threats, and building resilient solutions
 
 ## Professional Experience
 This section outlines my professional journey in cybersecurity, detailing the roles I’ve held and the impact I’ve made in each position
