@@ -88,5 +88,5 @@ I have pursued various certifications to strengthen my knowledge and skills in t
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [Azure Honeypot Lab](https://github.com/Carlos2002234/Azure-Honeypot-Lab)
+- [Automated-Threat-Hunting-with-Azure-Logic-Apps-and-Sentinel-](https://github.com/Carlos2002234/Automated-Threat-Hunting-with-Azure-Logic-Apps-and-Sentinel-)
