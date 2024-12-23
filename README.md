@@ -108,3 +108,17 @@ I have pursued various certifications to strengthen my knowledge and skills in t
 ## Projects
 - [Azure Honeypot Lab](https://github.com/Carlos2002234/Azure-Honeypot-Lab)
 - [Automated-Threat-Hunting-with-Azure-Logic-Apps-and-Sentinel-](https://github.com/Carlos2002234/Automated-Threat-Hunting-with-Azure-Logic-Apps-and-Sentinel-)
+
+## Events and Conferences
+
+This section highlights my involvement in the cybersecurity community through speaking engagements, conferences, and events. Whether attending as a speaker, panelist, or participant, I am passionate about sharing knowledge, networking with experts
+
+Speaking Engagement: Pwned - Cybersecurity Conference 
+One of the most significant milestones in my career was speaking at Pwned, the most important cybersecurity event in Costa Rica. During this event, I had the opportunity to present my topic, "GraphRunner and Security Concerns", where I discussed the security implications and best practices when using Graph API and GraphRunner in cybersecurity.
+
+![image](https://github.com/user-attachments/assets/904c11fc-b6cf-4c6c-8806-8f53a44ca6f6)
+
+![image](https://github.com/user-attachments/assets/6aab0f45-b32e-4d22-87b2-14ea9306c524)
+
+
+
