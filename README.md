@@ -24,13 +24,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+I am not an expert in every tool I work with, but what excites me about this field is the constant opportunity to learn and evolve. While I may not have mastered every tool, I have built a solid foundation and gained hands-on experience in many of them. 
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=Snort&logoColor=white" />
+
 </div>
 
 ### Endpoint
@@ -69,13 +71,21 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+I have pursued various certifications to strengthen my knowledge and skills in the cybersecurity and cloud domains. These certifications not only reflect my commitment to continuous learning but also ensure that I stay current with industry best practices and emerging technologies
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Associate_Cloud_Engineer-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Certified_Security_Operations_Analyst_Associate-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_Cloud_Essentials%2B-009CDE?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Certified_Azure_Fundamentals-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Certified_Security_Compliance_and_Identity_Fundamentals-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Certified_Azure_Security_Engineer_Associate-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+
+
+
 </div>
 
 ## Projects
