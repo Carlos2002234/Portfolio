@@ -1,7 +1,8 @@
 # Hello, I'm Carlos Rivera
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+![image](https://github.com/user-attachments/assets/22a4cee6-fe9c-40bf-a8c1-98eac9be720e)
+
 
 I am a passionate Cybersecurity Engineer with a strong background in Software Engineering. My expertise lies in securing systems, detecting threats, and building resilient solutions
 
