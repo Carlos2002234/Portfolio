@@ -113,12 +113,19 @@ I have pursued various certifications to strengthen my knowledge and skills in t
 
 This section highlights my involvement in the cybersecurity community through speaking engagements, conferences, and events. Whether attending as a speaker, panelist, or participant, I am passionate about sharing knowledge, networking with experts
 
-Speaking Engagement: Pwned - Cybersecurity Conference 
-One of the most significant milestones in my career was speaking at Pwned, the most important cybersecurity event in Costa Rica. During this event, I had the opportunity to present my topic, "GraphRunner and Security Concerns", where I discussed the security implications and best practices when using Graph API and GraphRunner in cybersecurity.
+## **Speaking Engagement: Pwned - Cybersecurity Conference**
+- One of the most significant milestones in my career was speaking at Pwned, the most important cybersecurity event in Costa Rica. During this event, I had the opportunity to present my topic, "GraphRunner and Security -Concerns", where I discussed the security implications and best practices when using Graph API and GraphRunner in cybersecurity.
 
 ![image](https://github.com/user-attachments/assets/904c11fc-b6cf-4c6c-8806-8f53a44ca6f6)
 
 ![image](https://github.com/user-attachments/assets/6aab0f45-b32e-4d22-87b2-14ea9306c524)
 
+## ** 4th edition of the Cybersecurity Congress presented by Microsoft Security**
+- Gain insights into how AI is revolutionizing Microsoft tools such as **Defender for Cloud**, **Defender for Endpoint**, and other security solutions.
+- Learn how AI-powered tools like **Copilot** are being integrated to enhance incident collection and automate incident response.
+- Connect with industry experts, expand my professional network, and stay informed on the latest innovations and best practices in AI-driven cybersecurity.
 
+![image](https://github.com/user-attachments/assets/d4277120-42f8-4079-9dc8-0035a1822864)
+
+![image](https://github.com/user-attachments/assets/ca458740-c2bd-4083-8c10-54c192e5fd69)
 
