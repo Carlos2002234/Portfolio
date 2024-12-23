@@ -31,6 +31,8 @@ I am not an expert in every tool I work with, but what excites me about this fie
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+
 
 </div>
 
@@ -65,6 +67,25 @@ I am not an expert in every tool I work with, but what excites me about this fie
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B3F00?&style=for-the-badge&logo=Terraform&logoColor=white" />
 
+
+    
+</div>
+
+###  Vulnerability scanners 
+<div>
+    <img src="https://img.shields.io/badge/-OpenVAS-00B140?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-5E5E5E?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    
+</div>
+
+###  Web Security
+<div>
+   <img src="https://img.shields.io/badge/-Burp_Suite-8C62A1?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP_ZAP-9C1F30?&style=for-the-badge&logo=OWASP&logoColor=white" />
+<img src="https://img.shields.io/badge/-DirBuster-000000?&style=for-the-badge&logo=DirBuster&logoColor=white" />
+<img src="https://img.shields.io/badge/-Gobuster-000000?&style=for-the-badge&logo=Gobuster&logoColor=white" />
+<img src="https://img.shields.io/badge/-WFuzz-7F7F7F?&style=for-the-badge&logo=WFuzz&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=Hydra&logoColor=white" />
 
     
 </div>
