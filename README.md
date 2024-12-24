@@ -15,7 +15,7 @@ This section outlines my professional journey in cybersecurity, detailing the ro
 |-----------------------------------------------|----------------------------|
 | Azure Cybersecurity Engineer (Microsoft)         | Present · 8 mos
 | Senior Information Technology Specialist (DELL)         | Aug 2023 - May 2024 
-| Senior Support Engineer (Kyndryl)     | Jul 2022 - Aug 2023
+| Senior Security Support Engineer (Kyndryl)     | Jul 2022 - Aug 2023
 | SOC Analyst (IBM)               | May 2021 - Dec 2021
 | Network Security Engineer (Consultek) | Jun 2020 - Dec 2020
 
