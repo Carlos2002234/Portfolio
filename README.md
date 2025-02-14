@@ -33,7 +33,7 @@ I am not an expert in every tool I work with, but what excites me about this fie
 
 </div>
 
-### Endpoint
+### Endpoint and more+
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
@@ -68,11 +68,12 @@ I am not an expert in every tool I work with, but what excites me about this fie
     
 </div>
 
-###  Vulnerability scanners 
+###  Vulnerability scanners and more+
 <div>
     <img src="https://img.shields.io/badge/-OpenVAS-00B140?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-5E5E5E?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Metasploit-5E5E5E?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+
 </div>
 
 ###  Web Security
